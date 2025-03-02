@@ -21,36 +21,31 @@ My first name can be pronounced like Zion.
 Publications
 ======
 
-Rewiring protein sequence and structure generative models to enhance protein stability prediction
-------
-**Ziang Li**, Yunan Luo \
+**Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
+<u>**Ziang Li**</u>, Yunan Luo \
 *RECOMB 2025* \
 \[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
 
-Double-ended synthesis planning with goal-constrained bidirectional search
-------
-Kevin Yu, Jihye Roh, **Ziang Li**, Wenhao Gao, Runzhong Wang, Connor W. Coley \
+**Double-ended synthesis planning with goal-constrained bidirectional search** \
+Kevin Yu, Jihye Roh, <u>**Ziang Li**</u>, Wenhao Gao, Runzhong Wang, Connor W. Coley \
 *NeurIPS 2024* (Spotlight) \
 \[[pdf](https://arxiv.org/abs/2407.06334)\]
 
-Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN
-------
-Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, **Ziang Li**, Jure Leskovec \
+**Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN** \
+Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, <u>**Ziang Li**</u>, Jure Leskovec \
 *Nature Methods* \
 \[[pdf](https://www.nature.com/articles/s41592-024-02191-z)\] 
 
-Rethinking the Setting of Semi-supervised Learning on Graphs
-------
-**Ziang Li** \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
+**Rethinking the Setting of Semi-supervised Learning on Graphs** \
+<u>**Ziang Li**</u> \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
 *IJCAI 2022* (oral) \
 \[[pdf](https://arxiv.org/pdf/2205.14403.pdf)\] \| \[[code](https://github.com/THUDM/IGB)\] 
 <!-- Propose **ValidUtil** to explore the limit of over-tuning hyperparameters for semi-supervised learning on graphs. With **ValidUtil**, even GCN can easily get high accuracy of 85.8% on Cora. \
 To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consisting of 4 datasets which is proved to be a more stable benchmark than previous datasets for semisupervised learning on graphs. \ -->
 
 
-Modeling Protein Using Large-scale Pretrain Language Model
-------
-Yijia Xiao, Jiezhong Qiu, **Ziang Li**, Chang-Yu Hsieh, Jie Tang \
+**Modeling Protein Using Large-scale Pretrain Language Model** \
+Yijia Xiao, Jiezhong Qiu,<u>**Ziang Li**</u>, Chang-Yu Hsieh, Jie Tang \
 *Pretrain@KDD 2021* \
 Pretrained the second largest protein language model in the world, **Wen Su**, which exceeded baseline in protein folding contact prediction by 39%. \
 \[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
