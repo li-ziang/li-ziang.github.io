@@ -24,8 +24,8 @@ Publications
 **Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
 *RECOMB 2025* \
+We developed SPURS (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction. \
 \[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
-We developed SPURS (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction.
 
 **Double-ended synthesis planning with goal-constrained bidirectional search** \
 Kevin Yu, Jihye Roh, <u><strong>Ziang Li</strong></u>, Wenhao Gao, Runzhong Wang, Connor W. Coley \
