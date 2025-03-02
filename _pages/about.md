@@ -39,14 +39,14 @@ Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, <u><strong>Ziang Li</str
 **Rethinking the Setting of Semi-supervised Learning on Graphs** \
 <u><strong>Ziang Li</strong></u> \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
 *IJCAI 2022* (oral) \
+We highlight the issue of over-tuning in GNNs on the validation set. \
 \[[pdf](https://arxiv.org/pdf/2205.14403.pdf)\] \| \[[code](https://github.com/THUDM/IGB)\] 
-<!-- Propose **ValidUtil** to explore the limit of over-tuning hyperparameters for semi-supervised learning on graphs. With **ValidUtil**, even GCN can easily get high accuracy of 85.8% on Cora. \
-To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consisting of 4 datasets which is proved to be a more stable benchmark than previous datasets for semisupervised learning on graphs. \ -->
 
 
 **Modeling Protein Using Large-scale Pretrain Language Model** \
 Yijia Xiao, Jiezhong Qiu,<u><strong>Ziang Li</strong></u>, Chang-Yu Hsieh, Jie Tang \
 *Pretrain@KDD 2021* \
+The early research on Protein Language Models featured the largest Protein Language Model at the time. \
 \[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
 
 More about me
