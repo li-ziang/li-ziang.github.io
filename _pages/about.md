@@ -20,6 +20,7 @@ My first name can be pronounced like Zion.
 
 Publications
 ======
+
 Rewiring protein sequence and structure generative models to enhance protein stability prediction
 **Ziang Li**, Yunan Luo \
 *RECOMB 2025*
