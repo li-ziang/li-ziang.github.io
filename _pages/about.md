@@ -53,7 +53,7 @@ The early research on Protein Language Models featured the largest Protein Langu
 More about me
 ======
 <!-- 1. I completed most of college chemistry courses on my own in high school. I am also interested in the intersection of organic chemistry and computer science, e.g molecule generation, total synthesis, drug discovery and protein structural models.  -->
-1. My favorite sport is basketball and I usually play as a power forward (PF). I can shoot the three, so I can also serve as a center in a small lineup. And I have been a fan of [**LeBron James**](https://en.wikipedia.org/wiki/LeBron_James) for more than 10 years!
+1. My favorite sport is basketball and I usually play as a forward. I can shoot the three, so I can also serve as a center in a small lineup. And I have been a fan of [**LeBron James**](https://en.wikipedia.org/wiki/LeBron_James) for more than 10 years!
 1. I want to be an optimistic, cheerful and hard-working person with strong belief like [**Naruto Uzumaki**](https://en.wikipedia.org/wiki/Naruto_Uzumaki).
 
 <!-- <p style="text-align: center;"><small>
