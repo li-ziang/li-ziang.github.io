@@ -25,6 +25,7 @@ Publications
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
 *RECOMB 2025* \
 \[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
+We developed SPURS (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction.
 
 **Double-ended synthesis planning with goal-constrained bidirectional search** \
 Kevin Yu, Jihye Roh, <u><strong>Ziang Li</strong></u>, Wenhao Gao, Runzhong Wang, Connor W. Coley \
@@ -44,7 +45,7 @@ We highlight the issue of over-tuning in GNNs on the validation set. \
 
 
 **Modeling Protein Using Large-scale Pretrain Language Model** \
-Yijia Xiao, Jiezhong Qiu,<u><strong>Ziang Li</strong></u>, Chang-Yu Hsieh, Jie Tang \
+Yijia Xiao, Jiezhong Qiu, <u><strong>Ziang Li</strong></u>, Chang-Yu Hsieh, Jie Tang \
 *Pretrain@KDD 2021* \
 The early research on Protein Language Models featured the largest Protein Language Model at the time. \
 \[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
