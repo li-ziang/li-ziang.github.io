@@ -47,7 +47,6 @@ To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consistin
 **Modeling Protein Using Large-scale Pretrain Language Model** \
 Yijia Xiao, Jiezhong Qiu,<u><strong>Ziang Li</strong></u>, Chang-Yu Hsieh, Jie Tang \
 *Pretrain@KDD 2021* \
-Pretrained the second largest protein language model in the world, **Wen Su**, which exceeded baseline in protein folding contact prediction by 39%. \
 \[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
 
 More about me
