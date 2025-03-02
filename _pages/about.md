@@ -31,12 +31,14 @@ Double-ended synthesis planning with goal-constrained bidirectional search
 Kevin Yu, Jihye Roh, **Ziang Li**, Wenhao Gao, Runzhong Wang, Connor W. Coley \
 *NeurIPS 2024* (Spotlight)
 \[[pdf](https://arxiv.org/abs/2407.06334)\]
-[Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN]
+
+Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN
 ------
 Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, **Ziang Li**, Jure Leskovec \
 *Nature Methods*
 \[[pdf](https://www.nature.com/articles/s41592-024-02191-z)\] 
-[Rethinking the Setting of Semi-supervised Learning on Graphs](https://arxiv.org/abs/2205.14403)
+
+Rethinking the Setting of Semi-supervised Learning on Graphs
 ------
 **Ziang Li** \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
 *IJCAI 2022* (oral)
@@ -45,7 +47,7 @@ Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, **Ziang Li**, Jure Lesko
 To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consisting of 4 datasets which is proved to be a more stable benchmark than previous datasets for semisupervised learning on graphs. \ -->
 \[[pdf](https://arxiv.org/pdf/2205.14403.pdf)\] \| \[[code](https://github.com/THUDM/IGB)\] 
 
-[Modeling Protein Using Large-scale Pretrain Language Model]
+Modeling Protein Using Large-scale Pretrain Language Model
 ------
 Yijia Xiao, Jiezhong Qiu, **Ziang Li**, Chang-Yu Hsieh, Jie Tang \
 *Pretrain@KDD 2021* 
