@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at School of Computational Science and Engineering, Georgia Institute of Technology, advised by Prof. [Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). My research interests include
-computational biology and graph representation learning. Previously, I obtained a B.E. in computer science from Tsinhua University. 
+I am a CS PhD student at School of Computational Science and Engineering, Georgia Institute of Technology, advised by Prof. [Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). I have broad interests in computational biology and machine learning, with a particular focus on developing AI methods to aid real-world biological and mediccal research.
 
-During my undergraduate, I was honored to have worked with  Prof. [Maria Brbic](https://cs.stanford.edu/~mbrbic/), Prof. [Jure Leskovec](https://cs.stanford.edu/people/jure/) at Stanford and Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) at Tsinghua University. In the industry, I used to intern at Tencent Quantum Lab, working with Dr. [Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=id&oi=ao) and at [Helixon](https://www.helixon.com/), working with Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/).
+
+Previously, I obtained a B.E. in computer science from Tsinhua University. I was honored to have worked with  Prof. [Maria Brbic](https://cs.stanford.edu/~mbrbic/), Prof. [Jure Leskovec](https://cs.stanford.edu/people/jure/) at Stanford and Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) at Tsinghua University. In the industry, I used to intern at Tencent Quantum Lab, working with Dr. [Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=id&oi=ao) and at [Helixon](https://www.helixon.com/), working with Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/).
 
 My first name can be pronounced like Zion.
 
@@ -20,11 +20,24 @@ My first name can be pronounced like Zion.
 
 Publications
 ======
+[Rewiring protein sequence and structure generative models to enhance protein stability prediction](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)
+**Ziang Li**, Yunan Luo \
+*RECOMB 2025*
+
+[Double-ended synthesis planning with goal-constrained bidirectional search](https://arxiv.org/abs/2407.06334)
+------
+Kevin Yu, Jihye Roh, **Ziang Li**, Wenhao Gao, Runzhong Wang, Connor W. Coley \
+*NeurIPS 2024* (Spotlight)
+
+[Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN](https://www.nature.com/articles/s41592-024-02191-z)
+------
+Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, **Ziang Li**, Jure Leskovec \
+*Nature Methods*
 
 [Rethinking the Setting of Semi-supervised Learning on Graphs](https://arxiv.org/abs/2205.14403)
 ------
 **Ziang Li** \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
-*Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI) 2022* （full paper）(short oral)
+*IJCAI 2022* (oral)
 
 Propose **ValidUtil** to explore the limit of over-tuning hyperparameters for semi-supervised learning on graphs. With **ValidUtil**, even GCN can easily get high accuracy of 85.8% on Cora. \
 To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consisting of 4 datasets which is proved to be a more stable benchmark than previous datasets for semisupervised learning on graphs. \
@@ -33,7 +46,7 @@ To avoid over-tuning, we construct an i.i.d. graph benchmark (**IGB**) consistin
 [Modeling Protein Using Large-scale Pretrain Language Model](https://arxiv.org/abs/2108.07435)
 ------
 Yijia Xiao, Jiezhong Qiu, **Ziang Li**, Chang-Yu Hsieh, Jie Tang \
-*The International Workshop on Pretraining: Algorithms, Architectures, and Applications (Pretrain@KDD) 2021* 
+*Pretrain@KDD 2021* 
 
 Pretrained the second largest protein language model in the world, **Wen Su**, which exceeded baseline in protein folding contact prediction by 39%. \
 \[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
