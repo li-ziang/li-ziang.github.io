@@ -22,6 +22,7 @@ Publications
 ======
 
 Rewiring protein sequence and structure generative models to enhance protein stability prediction
+------
 **Ziang Li**, Yunan Luo \
 *RECOMB 2025*
 \[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
