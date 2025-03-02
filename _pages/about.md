@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at School of Computational Science and Engineering (CSE), [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). I have broad interests in computational biology and machine learning, with a particular focus on developing AI methods to aid real-world biological and medical research. Currently, I am studying how AI models can be used to understand and optimize protein function.
+I am a second-year CS PhD student at School of Computational Science and Engineering (CSE), [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). I have broad interests in computational biology and machine learning, with a particular focus on developing AI methods to aid real-world biological and medical research. Currently, I am studying how AI models can be used to understand and optimize protein function.
 
 
 Previously, I obtained a B.E. in computer science from Tsinhua University. I was honored to have worked with  Prof. [Maria Brbic](https://cs.stanford.edu/~mbrbic/), Prof. [Jure Leskovec](https://cs.stanford.edu/people/jure/) at Stanford and Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) at Tsinghua University. In the industry, I used to intern at Tencent Quantum Lab, working with Dr. [Chang-Yu Hsieh](https://scholar.google.com/citations?user=K-AjhSgAAAAJ&hl=id&oi=ao) and at [Helixon](https://www.helixon.com/), working with Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/).
