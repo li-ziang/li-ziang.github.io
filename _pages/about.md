@@ -19,10 +19,16 @@ My first name is pronounced like 'Zion'.
 Publications
 ======
 
+**Generalizable and scalable protein stability prediction with rewired protein generative models** \
+<u><strong>Ziang Li</strong></u>, Yunan Luo \
+To appear on *Nature Communications* \
+We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction. \
+\[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v2.full.pdf)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
+
 **Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
 *RECOMB 2025* \
-We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction. \
+RECOMB version of the Nature Communications paper. \
 \[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
 
 **Double-ended synthesis planning with goal-constrained bidirectional search** \
