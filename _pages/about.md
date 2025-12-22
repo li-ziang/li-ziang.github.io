@@ -22,7 +22,8 @@ Publications
 **Generalizable and scalable protein stability prediction with rewired protein generative models** \
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
 *Nature Communications* \
-We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benifit protein engineering tasks, such as functional site discovery and fitness prediction. \
+We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benefit protein function understanding, such as functional site discovery, fitness prediction, and pathogenicity. \ 
+
 \[[pdf](https://www.nature.com/articles/s41467-025-67609-4)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
 
 **Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
