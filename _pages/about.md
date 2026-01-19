@@ -15,6 +15,15 @@ Previously, I obtained a B.E. in CS from Tsinghua University and won a gold meda
 
 My first name is pronounced like 'Zion'.
 
+Recent News
+======
+
+- **[2025/12]** Our **SPURS** paper has been published in *Nature Communications*. [[paper](https://www.nature.com/articles/s41467-025-67609-4)]
+- **[2025/12]** We have been invited to present our work at the **CAGI7 Conference**, following strong performance from a SPURS-based follow-up study. [[conference](https://genomeinterpretation.org/cagi7.html)]
+- **[2025/12]** I attended **NeurIPS 2025**.
+- **[2025/10]** I presented our work at the **Molecule Maker Learning Initiative (MMLI)**. [[workshop](https://moleculemaker.org/)]
+- **[2025/09]** I gave an invited talk at **ByteDance**.
+- **[2024/12]** One paper was accepted at **RECOMB 2025**.
 
 Publications
 ======
