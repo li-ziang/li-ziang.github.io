@@ -18,7 +18,8 @@ My first name is pronounced like “Zion”.
 Recent News
 ======
 
-- **[2025/12]** Our **SPURS** paper has been published in *Nature Communications*. [[paper](https://www.nature.com/articles/s41467-025-67609-4)]
+- **[2025/12]** Our **DETANGO** paper was accepted at **RECOMB 2026**. [[paper](https://www.biorxiv.org/content/10.64898/2026.02.03.703560v1.full.pdf)]
+- **[2025/12]** Our **SPURS** paper has been published in **Nature Communications**. [[paper](https://www.nature.com/articles/s41467-025-67609-4)]
 - **[2025/12]** We have been invited to present our work at the **CAGI7 Conference**, following strong performance from a SPURS-based follow-up study. [[conference](https://genomeinterpretation.org/cagi7.html)]
 - **[2025/12]** I attended **NeurIPS 2025**.
 - **[2025/10]** I presented our work at the **Molecule Maker Lab Institute (MMLI)**. [[workshop](https://moleculemaker.org/)]
@@ -30,9 +31,15 @@ Publications
 
 **Generalizable and scalable protein stability prediction with rewired protein generative models** \
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
-*Nature Communications* \
-We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benefit protein function understanding, such as functional site discovery, fitness prediction, and pathogenicity. \ 
+*Nature Communications 2026* \
+We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benefit protein function understanding, such as functional site discovery, fitness prediction, and pathogenicity. \
 \[[pdf](https://www.nature.com/articles/s41467-025-67609-4)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
+
+**Deconvolving mutation effects on protein stability and function with disentangled protein language models** \
+Kerr Ding, <u><strong>Ziang Li</strong></u>, Tony Tu, Jiaqi Luo, Yunan Luo \
+*RECOMB 2026* \
+**DETANGO** disentangles functional and stability constraints in protein function modeling by integrating evolutionary and thermodynamic predictors, and evaluates this relationship following the **SPURS** functional site identification task. \
+\[[pdf](https://www.biorxiv.org/content/10.64898/2026.02.03.703560v1.full.pdf)\] \| \[[code](https://github.com/luo-group/DETANGO)\] 
 
 **Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
 <u><strong>Ziang Li</strong></u>, Yunan Luo \
