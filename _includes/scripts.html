@@ -1,3 +1,24 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function() {
+    var toggle = document.getElementById('theme-toggle');
+    if (!toggle) return;
+    var icon = toggle.querySelector('i');
+    function sync() {
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      if (icon) { icon.className = dark ? 'fas fa-sun' : 'fas fa-moon'; }
+      toggle.setAttribute('aria-pressed', dark ? 'true' : 'false');
+    }
+    sync();
+    toggle.addEventListener('click', function() {
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var next = dark ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      sync();
+    });
+  })();
+</script>
+
 {% include analytics.html %}

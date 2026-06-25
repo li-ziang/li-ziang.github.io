@@ -1,0 +1,28 @@
+{% include base_path %}
+
+<div class="pub-item">
+  <h3 class="pub-item__title">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+  </h3>
+
+  {% if post.authors %}<p class="pub-item__authors">{{ post.authors }}</p>{% endif %}
+
+  <p class="pub-item__venue">
+    <span class="pub-venue">{{ post.venue }}</span>
+    {% if post.award %}<span class="pub-badge">{{ post.award }}</span>{% endif %}
+  </p>
+
+  {% if post.excerpt %}
+    <p class="pub-item__desc">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  {% endif %}
+
+  <p class="pub-item__links">
+    {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>{% endif %}
+    {% if post.code %}<a class="pub-link" href="{{ post.code }}" target="_blank" rel="noopener"><i class="fas fa-code" aria-hidden="true"></i> Code</a>{% endif %}
+    {% if post.slidesurl %}<a class="pub-link" href="{{ post.slidesurl }}" target="_blank" rel="noopener"><i class="fas fa-desktop" aria-hidden="true"></i> Slides</a>{% endif %}
+  </p>
+</div>

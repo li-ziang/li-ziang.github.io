@@ -12,7 +12,8 @@
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    "theme/{{ site.site_theme | default: 'default' }}",
+    "theme/default",
+    "theme/dark-toggle",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -33,10 +34,13 @@
 
     "layout/page",
     "layout/archive",
+    "layout/publications",
     "layout/sidebar",
     
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
+    "vendor/magnific-popup/magnific-popup",
+
+    "layout/refresh"
 ;

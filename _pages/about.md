@@ -18,6 +18,8 @@ My first name is pronounced like “Zion”.
 Recent News
 ======
 
+<div class="news-feed" markdown="1">
+
 - **[2025/12]** Our **DETANGO** paper was accepted at **RECOMB 2026**. [[paper](https://www.biorxiv.org/content/10.64898/2026.02.03.703560v1.full.pdf)]
 - **[2025/12]** Our **SPURS** paper has been published in **Nature Communications**. [[paper](https://www.nature.com/articles/s41467-025-67609-4)]
 - **[2025/12]** We have been invited to present our work at the **CAGI7 Conference**, following strong performance from a SPURS-based follow-up study. [[conference](https://genomeinterpretation.org/cagi7.html)]
@@ -26,56 +28,4 @@ Recent News
 - **[2025/09]** I gave an invited talk at **ByteDance**, sharing our recent work on protein modeling.
 - **[2024/12]** One paper was accepted at **RECOMB 2025**.
 
-Publications
-======
-
-**Generalizable and scalable protein stability prediction with rewired protein generative models** \
-<u><strong>Ziang Li</strong></u>, Yunan Luo \
-*Nature Communications 2026* \
-We developed **SPURS** (<u>s</u>tability <u>p</u>rediction <u>u</u>sing a <u>r</u>ewired <u>s</u>trategy), the SOTA protein stability predictor, to benefit protein function understanding, such as functional site discovery, fitness prediction, and pathogenicity. \
-\[[pdf](https://www.nature.com/articles/s41467-025-67609-4)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
-
-**Deconvolving mutation effects on protein stability and function with disentangled protein language models** \
-Kerr Ding, <u><strong>Ziang Li</strong></u>, Tony Tu, Jiaqi Luo, Yunan Luo \
-*RECOMB 2026* \
-**DETANGO** disentangles functional and stability constraints in protein function modeling by integrating evolutionary and thermodynamic predictors, and evaluates this relationship following the **SPURS** functional site identification task. \
-\[[pdf](https://www.biorxiv.org/content/10.64898/2026.02.03.703560v1.full.pdf)\] \| \[[code](https://github.com/luo-group/DETANGO)\] 
-
-**Rewiring protein sequence and structure generative models to enhance protein stability prediction** \
-<u><strong>Ziang Li</strong></u>, Yunan Luo \
-*RECOMB 2025* \
-RECOMB version of the SPURS. \
-\[[pdf](https://www.biorxiv.org/content/10.1101/2025.02.13.638154v1.abstract)\] \| \[[code](https://github.com/luo-group/SPURS)\] 
-
-**Double-ended synthesis planning with goal-constrained bidirectional search** \
-Kevin Yu, Jihye Roh, <u><strong>Ziang Li</strong></u>, Wenhao Gao, Runzhong Wang, Connor W. Coley \
-*NeurIPS 2024* (Spotlight) \
-\[[pdf](https://arxiv.org/abs/2407.06334)\]
-
-**Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN** \
-Yanay Rosen, Maria Brbić, Yusuf Roohani, Kyle Swanson, <u><strong>Ziang Li</strong></u>, Jure Leskovec \
-*Nature Methods* \
-\[[pdf](https://www.nature.com/articles/s41592-024-02191-z)\] 
-
-**Rethinking the Setting of Semi-supervised Learning on Graphs** \
-<u><strong>Ziang Li</strong></u> \*, Ming Ding \*, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang \
-*IJCAI 2022* (oral) \
-We highlight the issue of over-tuning in GNNs on the validation set. \
-\[[pdf](https://arxiv.org/pdf/2205.14403.pdf)\] \| \[[code](https://github.com/THUDM/IGB)\] 
-
-
-**Modeling Protein Using Large-scale Pretrain Language Model** \
-Yijia Xiao, Jiezhong Qiu, <u><strong>Ziang Li</strong></u>, Chang-Yu Hsieh, Jie Tang \
-*Pretrain@KDD 2021* \
-The early research on Protein Language Models featured the largest Protein Language Model at the time. \
-\[[pdf](https://arxiv.org/pdf/2108.07435.pdf)\] \| \[[code](https://github.com/THUDM/ProteinLM)\]
-
-More about me
-======
-<!-- 1. I completed most of college chemistry courses on my own in high school. I am also interested in the intersection of organic chemistry and computer science, e.g molecule generation, total synthesis, drug discovery and protein structural models.  -->
-1. My favorite sport is basketball and I usually play as a forward. I can shoot the three, so I can also serve as a center in a small lineup. And I have been a fan of [**LeBron James**](https://en.wikipedia.org/wiki/LeBron_James) for more than 10 years!
-1. I want to be an optimistic, cheerful and hard-working person with strong belief like [**Naruto Uzumaki**](https://en.wikipedia.org/wiki/Naruto_Uzumaki).
-
-<!-- <p style="text-align: center;"><small>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jmCV7HsISkmWMnkwujrC5_1PTuyjqIxeZ5B1v7bVsSE&cl=ffffff&w=a"></script>
-</small><p> -->
+</div>
