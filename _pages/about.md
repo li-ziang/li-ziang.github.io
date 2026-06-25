@@ -15,6 +15,8 @@ Previously, I obtained a B.E. in CS from Tsinghua University and won a gold meda
 
 My first name is pronounced like “Zion”.
 
+<a class="pub-cta" href="/publications/"><i class="fas fa-file-lines" aria-hidden="true"></i> View all publications <span class="pub-cta__arrow">&rarr;</span></a>
+
 Recent News
 ======
 
