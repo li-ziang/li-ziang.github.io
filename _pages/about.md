@@ -22,7 +22,7 @@ Recent News
 
 <div class="news-feed" markdown="1">
 
-- **[2026/06]** I started my internship at **[Biohub](https://biohub.org/)**.
+- **[2026/06]** I started my internship at **[Biohub](https://biohub.org/)** in Redwood City, CA.
 - **[2025/12]** Our **DETANGO** paper was accepted at **RECOMB 2026**. [[paper](https://www.biorxiv.org/content/10.64898/2026.02.03.703560v1.full.pdf)]
 - **[2025/12]** Our **SPURS** paper has been published in **Nature Communications**. [[paper](https://www.nature.com/articles/s41467-025-67609-4)]
 - **[2025/12]** We have been invited to present our work at the **CAGI7 Conference**, following strong performance from a SPURS-based follow-up study. [[conference](https://genomeinterpretation.org/cagi7.html)]
